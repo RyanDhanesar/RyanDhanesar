@@ -50,6 +50,10 @@ Previously studied toward:
 
 ## 📂 Featured Repositories
 
+> Check out some of the work I've uploaded:
+- 💻 [HTML/CSS/JavaScript Web Apps](#)
+- 🚧 More in progress – stay tuned!
+
 
 ---
 
